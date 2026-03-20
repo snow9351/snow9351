@@ -100,7 +100,7 @@
   <a align="left" href="https://github.com/snow9351/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snow9351&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/snow9351/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snow9351&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a align="left" href="https://github.com/snow9351/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snow9351&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/snow9351/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snow9351&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -111,9 +111,9 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
+<!-- <h4 align="center">
   <a href="https://github.com/snow9351?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> --> -->
 
 
 <!--
@@ -136,5 +136,6 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 ![Metrics](https://metrics.lecoq.io/snow9351?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 -->
-#   s n o w 9 3 5 1  
+#   s n o w 9 3 5 1 
+ 
  
