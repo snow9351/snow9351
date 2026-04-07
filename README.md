@@ -2,18 +2,18 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer+👋;This+is+Souta+Hoshino....;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer+👋;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/souta-hoshino-51144a3b8/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/snow9351" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/32520469/snow9351" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-</h5>
+<!-- <h5 align="center">
+  <!-- <code><a href="https://www.linkedin.com/in/souta-hoshino-51144a3b8/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code> -->
+  <!-- <code><a href="https://www.hackerrank.com/profile/snow9351" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
+  <!-- <code><a href="https://stackoverflow.com/users/32520469/snow9351" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
+<!-- </h5> -->
 <br>
 <p align="center">
-  Hi, I'm Souta Hoshino, AI Full-Stack & Mobile Engineer & Trading System Developer
+  Hi, I'm a AI Full-Stack & Mobile Engineer & Trading System Developer
   <br>
   <br>
   🤖 I specialize in building AI-powered applications across full-stack and mobile platforms
